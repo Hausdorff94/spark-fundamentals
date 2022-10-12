@@ -1,0 +1,5 @@
+pandas
+pyspark
+wordcloud
+matplotlib
+nltk
